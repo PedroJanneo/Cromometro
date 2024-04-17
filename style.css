@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#display{
+    font-size: 5em;
+    margin-bottom: 0.5em;
+
+}
+#start{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+#stop{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+#reset{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+button{
+    font-size: 1.5em;
+    padding: 0.5em 1em;
+    margin: 0 0.5em;
+}
+body{
+    background-color:lightskyblue;
+}
